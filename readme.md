@@ -11,7 +11,7 @@
 
 
 #### Datu Pertsonalak:
-| ![Me](./foto_cv_130px.png){width=130px} | - Izena: **Alex Moreno Ruiz**<br>- Adina: 27 urte<br>- Email: alex.moreno.dev@gmail.com<br>- Telefonoa: 600 123 456<br>- LinkedIn: linkedin.com/in/alex-moreno-dev<br>- GitHub: github.com/alexmoreno-dev |
+| ![Me](./foto_cv_130px.png) | - Izena: **Alex Moreno Ruiz**<br>- Adina: 27 urte<br>- Email: alex.moreno.dev@gmail.com<br>- Telefonoa: 600 123 456<br>- LinkedIn: linkedin.com/in/alex-moreno-dev<br>- GitHub: github.com/alexmoreno-dev |
 |---|---|
 
 #### Profil Profesionala:
