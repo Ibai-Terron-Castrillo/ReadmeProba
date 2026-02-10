@@ -1,9 +1,14 @@
 # Kurrikulum
 
 ## Aurkibidea:
-1. #### [Datu Pertsonalak](####Datu-Pertsonalak)
-2. #### [Profil Profesionala](####Profil-Profesionala)
-3. #### [Trebetasun teknikoak](####Trebetasun-teknikoak)
+- [Kurrikulum](#kurrikulum)
+  - [Aurkibidea:](#aurkibidea)
+      - [Datu Pertsonalak:](#datu-pertsonalak)
+      - [Profil Profesionala:](#profil-profesionala)
+      - [Trebetasun teknikoak:](#trebetasun-teknikoak)
+      - [Formazioa:](#formazioa)
+        - [Plataforma Anitzeko Aplikazioen Garapeneko goi-mailako gradua](#plataforma-anitzeko-aplikazioen-garapeneko-goi-mailako-gradua)
+      - [Kode zati bat (Java):](#kode-zati-bat-java)
 
 
 #### Datu Pertsonalak:
@@ -20,11 +25,11 @@ Mahaigaineko eta web aplikazioen garapenean ezagutza sendoak dituen programatzai
 #### Trebetasun teknikoak:
 | Arloa | Trebetasuna |
 |-------|-------------|
-Lengoaiak|Java, Python, JavaScript, SQL
-Teknologiak|HTML, CSS, Git, JDBC
-Paradigmak|Objektuetara Bideratutako Programazioa
-Datu-baseak|MySQL
-Bestelakoak|UML, MVC, plataforma anitzeko garapena
+| Lengoaiak | Java, Python, JavaScript, SQL |
+| Teknologiak | HTML, CSS, Git, JDBC |
+| Paradigmak | Objektuetara Bideratutako Programazioa |
+| Datu-baseak | MySQL |
+| Bestelakoak | UML, MVC, plataforma anitzeko garapena |
 
 #### Formazioa:
   ##### Plataforma Anitzeko Aplikazioen Garapeneko goi-mailako gradua
