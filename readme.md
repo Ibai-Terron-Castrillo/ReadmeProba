@@ -1,9 +1,9 @@
 # Kurrikulum
 
 ## Aurkibidea:
-1. #### [Datu Pertsonalak](#-Datu-Pertsonalak)
-2. #### [Profil Profesionala](#-Profil-Profesionala)
-3. #### [Trebetasun teknikoak](#-Trebetasun-teknikoak)
+1. #### [Datu Pertsonalak](####Datu-Pertsonalak)
+2. #### [Profil Profesionala](####Profil-Profesionala)
+3. #### [Trebetasun teknikoak](####Trebetasun-teknikoak)
 
 
 #### Datu Pertsonalak:
